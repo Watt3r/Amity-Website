@@ -3,21 +3,29 @@ title: Some facts about us
 
 numbers:
   - counter: 3
-    text: developers
+    text: Developers
+  - counter:5
+    text: Team Memebers
   - counter: 3
-    text: weeks of existence!
+    text: Weeks of Existence!
   - counter: 90
-    text: second block times
-  - counter: 1
-    text: super cool website
-
+    text: Second Block Times
+  - counter: 3
+    text: Super Cool Websites!
+  - counter: 298
+    text: Block Reward
+  - counter: 37000
+    text: P2P
+  - counter: 37001
+    text: RPC
+  
 people:
   - text: >
       Founder
     image: img/amity-jack.png
-    name: Amity Jack
+    name: Jack James (Amity Jack)
   - text: >
-      Service Developer
+      Junior Service Developer
     image: img/saj2.png
     name: Sajo8
   - text: >
@@ -27,4 +35,8 @@ people:
   - text: >
       Amity Patron
     image: img/madmax.png
-    name: madmax
+    name: Aaron Tomsett (Madmax)
+  - text: >
+      Advisor/Marketer
+    image img/achie.png
+    name: Achie
