@@ -1,11 +1,46 @@
 enable: true
-title: What We're Currently Doing
+title: AmityCoin
+subtitle: >
+  We intend to take over FIAT, even if it's only by a small portion.
+  
 content:
 
-  - name: MacOS GUI Wallet
-  
-  - name: Windows GUI Wallet
-
-  - name: Web Wallet
- 
-  - name: Discord TipBot
+  - icon: ion-coffee
+    name: Durability
+    text: >
+      With a max supply of 10 billion and an emission rate of 25, this means that Amitycoin can be mined for over 40 years.
+   
+  - icon: nameicon
+    name: CryptoNightV7
+    text: >
+      CryptoNight variant 7 is a upgraded algorithm to prevent ASIC machines from taking over our network.
+   
+  - icon: nameicon
+    name: LWMA-2
+    text: >
+      This has become one of they features of AmityCoin. If blocks are getting solved faster than expected, the algorithm will force it back on track.
+      
+  - icon: nameicon
+    name: Private
+    text: >
+      With untraceable and unlinkable transactions, you can feel safe when in possesion of our cryptocurrency.
+            
+  - icon: nameicon
+    name: Blockchain Analysis Resistant
+    text: >
+      Each future transaction will only increase the entropy and create additional obstacles for an analyst. 
+            
+  - icon: nameicon
+    name: Adaptive Parameters
+    text: >
+      AmityCoin always change adaptively and independently, allowing the network to develop on its own. 
+            
+  - icon: nameicon
+    name: put something here
+    text: >
+      put more things here
+            
+  - icon: nameicon
+    name: put something here
+    text: >
+      put more things here
