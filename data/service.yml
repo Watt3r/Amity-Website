@@ -41,6 +41,15 @@ content:
   - name:
     text: >
     
+  - name:
+    text: >
+         
+  - name:
+    text: >
+      
+  - name:
+    text: >
+    
   - name: Community
     text: >
       With all what Amity means, we hope to one day start funding other projects outside of Amity itself giving other people a chance to do something special with the our help behind them.
@@ -48,3 +57,7 @@ content:
   - name: Team Members
     text: >
       We're always looking for more people to get involved so please head over to our Discord server and lets talk some more!
+            
+  - name:
+    text: >
+    
