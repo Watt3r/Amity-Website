@@ -3,34 +3,34 @@ title: AmityCoin
 subtitle: >
   We intend to take over FIAT, even if it's only by a small portion
 content:
-    name: Durability
+  - name: Durability
     text: >
       With a max supply of 10 billion and an emission rate of 25, this means that Amitycoin can be mined for over 40 years
    
-    name: CryptoNightV7
+  - name: CryptoNightV7
     text: >
       CryptoNight variant 7 is a upgraded algorithm to prevent ASIC machines from taking over our network
    
-    name: LWMA-2
+  - name: LWMA-2
     text: >
       This has become one of they features of AmityCoin. If blocks are getting solved faster than expected, the algorithm will force it back on track
     
-    name: Private
+  - name: Private
     text: >
       With untraceable and unlinkable transactions, you can feel safe when in possesion of our cryptocurrency
     
-    name: Blockchain Analysis Resistant
+  - name: Blockchain Analysis Resistant
     text: >
       Each future transaction will only increase the entropy and create additional obstacles for an analyst
     
-    name: Adaptive Parameters
+  - name: Adaptive Parameters
     text: >
       AmityCoin always change adaptively and independently, allowing the network to develop on its own
     
-    name: Community
+  - name: Community
     text: >
       With all what Amity means, we hope to one day start funding other projects outside of Amity itself giving other people a chance to do something special with the our help behind them
     
-    name: Team Members
+  - name: Team Members
     text: >
       We're always looking for more people to get involved so please head over to our Discord server and lets talk some more
