@@ -26,7 +26,13 @@ content:
          
   - name:
     text: >
-         
+           
+  - name:
+    text: >
+      
+  - name:
+    text: >
+    
   - name: Blockchain Analysis Resistant
     text: >
       Each future transaction will only increase the entropy and create additional obstacles for an analyst. 
@@ -58,6 +64,12 @@ content:
     text: >
       We're always looking for more people to get involved so please head over to our Discord server and lets talk some more!
             
+  - name:
+    text: >
+     
+  - name:
+    text: >
+      
   - name:
     text: >
     
