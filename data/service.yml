@@ -5,42 +5,34 @@ subtitle: >
   
 content:
 
-  - icon: static/durable
     name: Durability
     text: >
       With a max supply of 10 billion and an emission rate of 25, this means that Amitycoin can be mined for over 40 years.
    
-  - icon: static/asic
     name: CryptoNightV7
     text: >
       CryptoNight variant 7 is a upgraded algorithm to prevent ASIC machines from taking over our network.
    
-  - icon: static/lwma2
     name: LWMA-2
     text: >
       This has become one of they features of AmityCoin. If blocks are getting solved faster than expected, the algorithm will force it back on track.
-      
-  - icon: static/private
+    
     name: Private
     text: >
       With untraceable and unlinkable transactions, you can feel safe when in possesion of our cryptocurrency.
-            
-  - icon: static/fingerprint
+    
     name: Blockchain Analysis Resistant
     text: >
       Each future transaction will only increase the entropy and create additional obstacles for an analyst. 
-            
-  - icon: static/adaptation
+    
     name: Adaptive Parameters
     text: >
       AmityCoin always change adaptively and independently, allowing the network to develop on its own. 
-            
-  - icon: static/community
+    
     name: Community
     text: >
       With all what Amity means, we hope to one day start funding other projects outside of Amity itself giving other people a chance to do something special with the our help behind them.
-            
-  - icon: static/team
+    
     name: Team Members
     text: >
       We're always looking for more people to get involved so please head over to our Discord server and lets talk some more!
