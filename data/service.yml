@@ -24,10 +24,6 @@ content:
   - name:
     text: >
          
-    
-  - name:
-    text: >
-         
   - name: Blockchain Analysis Resistant
     text: >
       Each future transaction will only increase the entropy and create additional obstacles for an analyst. 
@@ -35,6 +31,9 @@ content:
   - name: Adaptive Parameters
     text: >
       AmityCoin always change adaptively and independently, allowing the network to develop on its own. 
+      
+  - name:
+    text: >
     
   - name: Community
     text: >
