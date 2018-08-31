@@ -28,3 +28,7 @@ people:
       Amity Patron
     image: img/madmax.png
     name: madmax
+  - text: >
+      Service Developer
+    image: img/watter.jpg
+    name: Watter
